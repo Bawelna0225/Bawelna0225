@@ -10,7 +10,7 @@
   -  codewars profile: https://www.codewars.com/users/Paweł%20Czarnecki
   -  Or Email me at pawelczarnecki0225@gmail.com
 
-If you are interested in any of my projects, fell free to use my code
+## If you are interested in any of my projects, fell free to use my code
 
 <!---
 Bawelna0225/Bawelna0225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
