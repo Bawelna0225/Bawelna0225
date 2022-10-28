@@ -1,5 +1,5 @@
 # Hi, I’m Paweł Czarnecki 👋
-## I’m a Frontend Web Developer
+## I’m a Frontend Web Developer 👨‍💻
 ## Code Wars
 ![https://www.codewars.com/users/Paweł%20Czarnecki](https://www.codewars.com/users/Pawe%C5%82%20Czarnecki/badges/large)
 ## My Skills ⚙
