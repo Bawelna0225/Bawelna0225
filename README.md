@@ -8,8 +8,11 @@
 + CSS
 + SCSS
 + JavaScript
++ TypeScript
 + React.js
 + Figma
++ PHP
++ MySQL
 ```
 ## How to reach me 💬
   -  My Website: https://pawel-czarnecki.com
