@@ -10,6 +10,7 @@
 + JavaScript
 + TypeScript
 + React.js
++ Redux Toolkit
 + Figma
 + PHP
 + MySQL
